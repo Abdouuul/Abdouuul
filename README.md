@@ -22,10 +22,10 @@ I'm Abdoul, a passionate and dedicated **Application Developer** with a strong f
 - ⚡ Fun fact: **I love running, traveling and playing video games!**
 
 <p align="center">
-  <a href="https://github.com/Abdouuul/Resume/blob/main/en-cv.pdf" target="_blank">
+  <a href="https://github.com/Abdouuul/Abdouuul/blob/main/Resume/blob/main/en-cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume%20(EN)-red?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Download Resume (EN)">
   </a>
-  <a href="https://github.com/Abdouuul/Resume/blob/main/fr-cv.pdf" target="_blank">
+  <a href="https://github.com/Abdouuul/Abdouuul/blob/main/Resume/blob/main/fr-cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20CV%20(FR)-red?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Télécharger CV (FR)">
   </a>
 </p>
