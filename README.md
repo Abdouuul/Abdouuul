@@ -30,32 +30,50 @@ I'm Abdoul, a passionate and dedicated **Application Developer** with a strong f
   </a>
 </p>
 
-## My Skills
+## My Skills 💡
 
-- **Languages & Frameworks:** JavaScript, Python, TypeScript, PHP, Symfony, Angular, Ionic
-- **Frontend:** React, Angular
-- **Backend:** Django, Flask, Node.js, PHP
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Cloud & DevOps:** Docker, Git, CI/CD
-- **Tools:** VS Code, Insomnia, Trello, Draw.io
+- **Languages & Frameworks:** `JavaScript, Python, TypeScript, PHP, Symfony, Angular, Ionic`
+- **Frontend:** `React, Angular`
+- **Backend:** `Django, Flask, Node.js, PHP`
+- **Databases:** `PostgreSQL, MongoDB, MySQL`
+- **Cloud & DevOps:** `Docker, Git, CI/CD`
+- **Tools:** `VS Code, Insomnia, Trello, Draw.io`
 
-## My Projects
+## My Projects 💼
 
 Here are some of the projects I'm proud of:
 
-### 1. AI Assisted FAQ Generator
+### 1. AI Assisted FAQ Generator 🤖
+
+<p>
+  <a href="https://github.com/JoyousUser/Faq_Rag_Pdf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 - **Description:** AI Assisted FAQ Generator is a an application that helps people generate FAQs for their websites from a simple PDF file.
 - **Technologies:** React, Python, REST_API, Django, Ollama, Llama3, pydantic
 - **Features:** User authentication (JWT), Google Authentication, Admin Dashboard, Llama3 LLM model for FAQ generation.
 
-### 2. Aloombus Discord Chatbot
+### 2. Aloombus Discord Chatbot 💬
+
+<p>
+  <a href="https://github.com/Abdouuul/Aloombus-discord-bot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 - **Description:** Aloombus is my discord chatbot/assistant, its a helpful assistant and great conversation starter and it can generate images.
 - **Technologies:** Node.js, Discord.js, Python, Flask, Pydantic, Langchain, StableDiffusion
 - **Features:** Image Generation, Conversational mode, Helpful moderator.
 
-### 3. Personal Portfolio Website
+### 3. Personal Portfolio Website 💻
+
+<p>
+  <a href="https://github.com/Abdouuul/MyPortfolio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 - **Description:** This very website you are viewing! A responsive and modern portfolio to showcase my projects and skills.
 - **Technologies:** PHP, Symfony, HTML5, CSS3
